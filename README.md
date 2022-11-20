@@ -26,7 +26,7 @@ Cluedo o Clue es un juego de mesa popular que fue producido originalmente por la
 
 **Ejecución de los tests**
 
-Para correr los tests de Jest ejecuta el comando  `npm test --watch` en el terminal.
+Para correr los tests de Jest ejecuta el comando  `npm test` en el terminal después de cada cambio que realices.
 
 **Pasar los tests**
 
